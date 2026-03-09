@@ -23,6 +23,7 @@ Original experiment: *Kadish, I. et al. (2007). Transcriptional profiles of rode
 - `GDS3915.ipynb` – Jupyter notebook containing the full analysis pipeline (data loading, preprocessing, statistics, visualisation).
 - `GDS3915.soft` – The original SOFT format file downloaded from GEO (optional – you may also provide a download script to save space).
 - `requirements.txt` – List of Python dependencies required to run the notebook.
+- `environment.yml` – Conda environment file for easy setup.
 - `README.md` – This file.
 - `LICENSE` – MIT license (or choose another).
 
