@@ -1,0 +1,19 @@
+name: rat_hippo_aging
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.13
+  - pandas>=1.5.0
+  - numpy>=1.24.0
+  - scipy>=1.10.0
+  - statsmodels>=0.13.0
+  - scikit-learn>=1.2.0
+  - matplotlib>=3.6.0
+  - seaborn>=0.12.0
+  - jupyter>=1.0.0
+  - ipykernel>=6.0.0
+  - pip
+  - pip:
+    - GEOparse>=1.3.0
+    - gseapy>=1.0.0
