@@ -1,6 +1,6 @@
 # Transcriptomic Insights Into Age-Related Hippocampal Changes in Rats
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) <!-- Replace with actual DOI if you archive there -->
+[![DOI](https://zenodo.org/badge/1177240981.svg)](https://doi.org/10.5281/zenodo.18929535) <!-- Replace with actual DOI if you archive there -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Overview
