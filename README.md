@@ -5,7 +5,7 @@
 
 ## Overview
 This repository contains the complete computational workflow and data for the study **"Transcriptomic Insights into Age-Related Hippocampal Changes in Rats"**. The project re-analyses a public microarray dataset (GDS3915) to characterize age-dependent gene expression changes in the rat hippocampus across five time points (3, 6, 9, 12, and 23 months). We identify a late-life neuroinflammatory signature involving complement activation, lysosomal pathways, and immune dysregulation.
-
+ 
 The analysis is performed in Python and includes differential expression testing, functional enrichment (GO/KEGG), and visualisation (PCA, volcano plots, heatmaps).
 
 ## Authors
